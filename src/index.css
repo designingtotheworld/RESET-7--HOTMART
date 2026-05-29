@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-red: #E11D48;
+  --color-ink: #111827;
+  --color-zen-line: #E5E7EB;
+  --color-zen-gray: #F9FAFB;
+}
