@@ -87,13 +87,13 @@ export default function App() {
             />
           </div>
           <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight text-ink">
-            El método japonés de 7 días para ordenar tu casa y resetear tu mente
+            Reseteá la energía de tu hogar: El método japonés de 7 días para atraer abundancia a través del orden
           </h1>
           <h2 className="text-xl md:text-2xl font-light text-gray-600 mb-6 max-w-3xl mx-auto">
-            RESET 7 elimina el caos visual sin agotamiento ni reglas extremas.
+            Transforma el caos en tu aliado: Limpia tu espacio, alinea tu energía y abre las puertas a lo bueno que está por venir.
           </h2>
           <p className="text-lg md:text-xl font-medium text-brand-red mb-10 tracking-tight italic">
-            “El desorden no solo ocupa espacio. También ocupa tu energía.”
+            “Tu casa es un espejo de tu interior. Ordenar tu espacio es ordenar tu destino.”
           </p>
           
           <div className="flex flex-col items-center gap-4">
